@@ -6,6 +6,9 @@ setpoint decisions every simulated 15-minute interval, compares AI-driven saving
 against a deterministic rule-controller baseline, and streams everything to a React
 dashboard.
 
+![Dashboard](Dashboard.png)
+
+
 See [ARCHITECTURE.md](ARCHITECTURE.md) for the full tool-calling design, prompt
 engineering strategy, latency management, and known limitations.
 
@@ -159,7 +162,6 @@ without needing a live simulation.
 
 ## Dashboard
 
-![Dashboard](Dashboard.png)
 
 The React dashboard (Vite + Recharts) displays:
 

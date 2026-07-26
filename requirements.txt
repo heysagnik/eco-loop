@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+websockets
+pytest
+pytest-asyncio
+python-dotenv
+httpx
+mcp
+openai

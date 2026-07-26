@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dashboard/dist/
+data/*.db
+data/*.sql
+models/out/
+project_bundle.md
+*.bundle.*
+
